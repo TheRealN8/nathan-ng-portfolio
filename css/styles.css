@@ -1,11 +1,14 @@
 
 /* Navigation Bar for all files */
 
+
+/*#DA4444           #474E68            #32276B*/
+
 .navigation{
   width: 100%;
   height: 75px;
   display: flex;
-  background-color: #474E68;
+  background-color: #E74646;
   padding-top: 5px;
   padding-bottom: 5px;
 
@@ -26,7 +29,7 @@
 }
 
 .btn-primary:hover{
-  background-color: #32276B !important;
+  background-color: #FA9884 !important;
   border-color: transparent !important;
   color: white !important;
 
@@ -37,7 +40,7 @@
 
 
 .content-home{
-  background-image: url("images/purplesky.jpg");
+  background-image: url("images/index-abstract.jpg");
   filter: brightness(90%);
   width: 100%;
   height: 720px;
@@ -60,7 +63,7 @@
 }
 
 .contact{
-  background-color: #474E68;
+  background-color: #E74646;
   padding-top: 10px;
   padding-bottom: 20px;
   color: white;
